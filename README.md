@@ -5,4 +5,4 @@ Attempting to create a script that will help automate uploading a bunch of files
 
 # How To Use
 <ol>
-  <li>Downlaod the Automating Uploads.ipynb file</li>
+  <li>Download the ____ file (TBD, IN PROGRESS)</li>
